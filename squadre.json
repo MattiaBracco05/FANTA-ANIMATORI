@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "nickname": "MR05",
+        "url": "",
+        "nomeSquadra": "Squadra1",
+        "componentiSqaudra": [
+            "Ciao1",
+            "Ciao2",
+            "Ciao3",
+            "Ciao4",
+            "Ciao5",
+            "Ciao6",
+            "Ciao7",
+            "Ciao8",
+            "Ciao9"
+        ]
+    },
+    {
+        "nome": "Luca",
+        "cognome": "Bianco",
+        "nickname": "LB05",
+        "url": "",
+        "nomeSquadra": "Squadra2",
+        "componentiSqaudra": [
+            "Ciao1",
+            "Ciao2",
+            "Ciao3",
+            "Ciao4",
+            "Ciao5",
+            "Ciao6",
+            "Ciao7",
+            "Ciao8",
+            "Ciao9"
+        ]
+    }
+]
