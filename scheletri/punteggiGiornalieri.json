@@ -1,6 +1,26 @@
 [
     {
-        "nomeAniamtore": "",
-        "punteggio": 0
+        "nomeAniamtore": "Ciao1",
+        "punteggii": {
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
+    },
+    {
+        "nomeAniamtore": "Ciao2",
+        "punteggii": {
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
     }
 ]
