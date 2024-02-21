@@ -2,7 +2,7 @@
     {
         "nomeAniamtore": "Ciao1",
         "punteggii": {
-            "Lunedi": 20,
+            "Lunedi": 10,
             "Martedi": 0,
             "Mercoledi": 0,
             "Giovedi": 0,
@@ -14,7 +14,91 @@
     {
         "nomeAniamtore": "Ciao2",
         "punteggii": {
-            "Lunedi": 30,
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
+    },
+    {
+        "nomeAniamtore": "Ciao3",
+        "punteggii": {
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
+    },
+    {
+        "nomeAniamtore": "Ciao4",
+        "punteggii": {
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
+    },
+    {
+        "nomeAniamtore": "Ciao5",
+        "punteggii": {
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
+    },
+    {
+        "nomeAniamtore": "Ciao6",
+        "punteggii": {
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
+    },
+    {
+        "nomeAniamtore": "Ciao7",
+        "punteggii": {
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
+    },
+    {
+        "nomeAniamtore": "Ciao8",
+        "punteggii": {
+            "Lunedi": 10,
+            "Martedi": 0,
+            "Mercoledi": 0,
+            "Giovedi": 0,
+            "Venerdi": 0,
+            "Sabato": 0,
+            "Extra": 0,
+        }
+    },
+    {
+        "nomeAniamtore": "Ciao9",
+        "punteggii": {
+            "Lunedi": 10,
             "Martedi": 0,
             "Mercoledi": 0,
             "Giovedi": 0,
